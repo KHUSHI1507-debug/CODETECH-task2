@@ -21,3 +21,8 @@ Technology used;-
 1 HTML
 2 CSS
 3 JS
+
+
+OVERVIEW AND SCREEN SHOTS;-
+![Screenshot (17)](https://github.com/user-attachments/assets/c950c161-03fc-4ec7-be05-14bb4704bb1a)
+![Screenshot (17)](https://github.com/user-attachments/assets/40961577-8245-4ef6-9f8c-cafa7ae9ed81)
